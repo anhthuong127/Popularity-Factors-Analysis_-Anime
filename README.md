@@ -1,6 +1,6 @@
 # Popularity-Factors-Analysis_-Anime (Phân tích các yếu tố ảnh hưởng đến mức độ phổ biến của Anime)
 
-**📊Project Overview - Mô tả dự án**
+**📊 1. Project Overview - Mô tả dự án**
 
 (EN)
 This project analyzes the _top_anime_dataset.csv_, which contains information about anime released over many years.
@@ -13,7 +13,7 @@ Dự án này phân tích bộ dữ liệu top_anime_dataset.csv, chứa thông 
 Mục tiêu là khám phá những đặc điểm ảnh hưởng đến sự phổ biến, mức độ yêu thích và đánh giá của cộng đồng đối với từng anime.
 Phân tích bao gồm EDA, phân bố dữ liệu, xếp hạng độ phổ biến, so sánh điểm đánh giá, và xu hướng phát hành theo thời gian.
 
-**📂 Dataset | Nguồn dữ liệu**
+**📂 2. Dataset | Nguồn dữ liệu**
 
 (EN)
 The dataset is provided for academic purposes by the University of Science (VNU-HCM).
@@ -31,7 +31,7 @@ Bộ dữ liệu bao gồm:
 - Các chỉ số chất lượng (score, ranked)
 - Thể loại và phân loại nội dung
 
-**⭐ Project Objectives - Mục tiêu dự án**
+**⭐ 3. Project Objectives - Mục tiêu dự án**
 
 (EN)
 
@@ -61,7 +61,7 @@ Bộ dữ liệu bao gồm:
 
 ✔ Xác định thể loại anime được cộng đồng đánh giá cao nhất
 
-**🔎 Methodology | Quy trình thực hiện**
+**🔎 4. Methodology | Quy trình thực hiện**
 
 Step 1: Data Exploration 
 
@@ -87,7 +87,7 @@ Step 3: Exploratory Data Analysis & Visualization
 
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/04052c6c-1b0c-4373-a904-42b79d877868" />
 
-**🧩 Key Insights**
+**🧩 5. Key Insights**
 
 (EN)
 - The dataset contains many missing fields — cleaning is required for reliable analysis.
@@ -138,7 +138,7 @@ Step 3: Exploratory Data Analysis & Visualization
 
 - Jupyter Notebook/ VS code
 
-**🚀 Project Links | Liên kết dự án**
+**🚀 8. Project Links | Liên kết dự án**
 
 💻 GitHub (Code):
 [https://github.com/anhthuong127/
